@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">POM</string>
+
+    <string name="fname">First Name</string>
+    <string name="sname">Surname</string>
+    <string name="phoneno">Phone Number</string>
+    <string name="sex">Sex</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+
+    <string name="add">Add data</string>
+
+    <string name="settingsTab">Settings</string>
+    <string name="homeTab">Home</string>
+    <string name="matchesTab">Matches</string>
+
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="bypass">Bypass</string>
+
+    <string name="loading_cards">Loading Cards Please wait...</string>
+    <string name="loading_matches">Loading Matches Please wait...</string>
+
+    <string name="chat_message_hint">message...</string>
+    <string name="chat_send">Send</string>
+
+    <string name="frag_settings_btn_save">Save</string>
+
+    <string name="main_login_facebook">Login with facebook</string>
+
+    <string name="main_discover">Discover the POM</string>
+
+</resources>
